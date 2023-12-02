@@ -17,7 +17,7 @@ Consider your entire calibration document. What is the sum of all of the calibra
 ## advent of code 2023 day 1 part one
 # Sandra Castilho
 
-input_file = "1.input"
+input_file = "inputs/1"
 
 def is_number(char):
 	return char in ['1', '2', '3', '4', '5', '6', '7', '8', '9']

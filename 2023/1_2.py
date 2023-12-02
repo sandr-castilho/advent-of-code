@@ -19,7 +19,7 @@ What is the sum of all of the calibration values?
 ## advent of code 2023 day 1 part two
 # Sandra Castilho
 
-input_file = "1.input"
+input_file = "inputs/1"
 
 def is_number(word):
 	return word in ['1', '2', '3', '4', '5', '6', '7', '8', '9'] or word in ["one", "two", "three", "four", "five", "six", "seven", "eight", "nine"]
